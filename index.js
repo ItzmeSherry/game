@@ -6,7 +6,7 @@ const cardObjectDefinitions = [
     {id:3, imagePath:'/images/card3.jpg'},
     {id:4, imagePath:'/images/THE WORLD.jpg'}  
 ]
-const aceId = 22
+const aceId = 4
 
 const cardBackImgPath = '/images/card-back-blue.png'
 
